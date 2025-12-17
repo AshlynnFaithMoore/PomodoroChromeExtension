@@ -1,0 +1,20 @@
+{
+    "name" : "Pomodoro Timer",
+    "version" : "1.0",
+    "description" : "A classic pomodoro timer.",
+    "manifest version" : "3.0",
+    "action" : {
+        "default_popup" : "popup.html"
+    },
+    "permissions" : ["storage", "activeTab", "alarms", "notifications", "offscreen"],
+    "background" : {
+        "service_worker" : "service_worker.js"
+    }
+
+    
+
+
+
+
+
+}
