@@ -2,7 +2,7 @@
     "name" : "Pomodoro Timer",
     "version" : "1.0",
     "description" : "A classic pomodoro timer.",
-    "manifest version" : "3.0",
+    "manifest_version" : 3,
     "action" : {
         "default_popup" : "popup.html"
     },
